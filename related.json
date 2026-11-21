@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Invoice Number Generator",
+    "url": "https://LinuxGuru999.github.io/shotgun-invoice-number-generator/",
+    "tagline": "Sequential, date-stamped invoice IDs with no setup"
+  },
+  {
+    "name": "Meeting Notes System",
+    "url": "https://LinuxGuru999.github.io/shotgun-meeting-notes-system/",
+    "tagline": "A lightweight meeting note format with decisions and owners"
+  },
+  {
+    "name": "droid-term",
+    "url": "https://LinuxGuru999.github.io/shotgun-droid-term/",
+    "tagline": "Bootstrap a productive terminal environment on Android"
+  }
+]
